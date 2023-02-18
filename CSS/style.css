@@ -60,7 +60,7 @@ header .nav-logo span{
     color:#7700ff;
     
 }
-media screen and (max-width:992px){
+media screen and (max-width:550px){
    header nav  ul{
     display:none
 
